@@ -1,2 +1,5 @@
 * D'ni
 =D'ni= is a 5GL Language for describing words via costraints.
+
+* See
+- https://en.wikipedia.org/wiki/Fifth-generation_programming_language
