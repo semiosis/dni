@@ -1,0 +1,2 @@
+* D'ni
+=D'ni= is a 5GL Language for describing words via costraints.
