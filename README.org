@@ -6,7 +6,7 @@ The result of executing a parchment using =dni-let= will provide the programmer
 with values resulting from executing in the scope of their code.
 
 ** Future
-Describ worlds via costraints.
+Describe worlds via costraints.
 
 *** See
 - https://en.wikipedia.org/wiki/Fifth-generation_programming_language
