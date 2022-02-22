@@ -1,5 +1,9 @@
-* D'ni
-=D'ni= is a 5GL Language for describing words via costraints.
+* D'ni language
+This is a prompt programming language which allows you to compose prompt
+functions into templates via a mixture of yaml and emacs lisp.
 
-* See
+** Future
+Describ worlds via costraints.
+
+*** See
 - https://en.wikipedia.org/wiki/Fifth-generation_programming_language
