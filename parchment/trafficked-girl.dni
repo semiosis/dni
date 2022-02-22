@@ -1,0 +1,13 @@
+# I need this to be listified for the moment
+# When the yaml is loaded, it must be in list format
+
+- bio: "a girl who was trafficked"
+
+- task: "Write a bio about <bio>"
+
+- biography: |-
+  Biography:
+  <(pf-instruct-an-ai-to-write-something/1 task)>
+
+- full-name: "<(pf-christen-something-with-a-name/1 biography)>"
+- description: "<biography>"
